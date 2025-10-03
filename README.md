@@ -1,5 +1,5 @@
 # select-car
-
+```php
 <?php
 $APPLICATION->IncludeComponent(
     'custom:select_car',
@@ -12,3 +12,4 @@ $APPLICATION->IncludeComponent(
     ]
 );
 ?>
+```
